@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-12T17:27:46 IST" name="Default suite" finished-at="2024-03-12T17:28:11 IST" duration-ms="24704">
+    <groups>
+    </groups>
+    <test started-at="2024-03-12T17:27:46 IST" name="Default test" finished-at="2024-03-12T17:28:11 IST" duration-ms="24704">
+      <class name="dealsDray.BulkOrders">
+        <test-method is-config="true" signature="browsers()[pri:0, instance:dealsDray.BulkOrders@290222c1]" started-at="2024-03-12T17:27:46 IST" name="browsers" finished-at="2024-03-12T17:27:59 IST" duration-ms="12819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsers -->
+        <test-method signature="login()[pri:0, instance:dealsDray.BulkOrders@290222c1]" started-at="2024-03-12T17:27:59 IST" name="login" finished-at="2024-03-12T17:28:00 IST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="orders()[pri:0, instance:dealsDray.BulkOrders@290222c1]" started-at="2024-03-12T17:28:00 IST" name="orders" finished-at="2024-03-12T17:28:11 IST" duration-ms="11345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orders -->
+        <test-method is-config="true" signature="close()[pri:0, instance:dealsDray.BulkOrders@290222c1]" started-at="2024-03-12T17:28:11 IST" name="close" finished-at="2024-03-12T17:28:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- dealsDray.BulkOrders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
