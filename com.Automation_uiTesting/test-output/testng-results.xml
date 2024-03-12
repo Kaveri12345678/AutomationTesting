@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-12T17:39:14 IST" name="Default suite" finished-at="2024-03-12T17:40:10 IST" duration-ms="56441">
+    <groups>
+    </groups>
+    <test started-at="2024-03-12T17:39:14 IST" name="Default test" finished-at="2024-03-12T17:40:10 IST" duration-ms="56441">
+      <class name="Browsers_resolution.firefoxBrowser">
+        <test-method is-config="true" signature="browsers()[pri:0, instance:Browsers_resolution.firefoxBrowser@12aba8be]" started-at="2024-03-12T17:39:14 IST" name="browsers" finished-at="2024-03-12T17:39:58 IST" duration-ms="43624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsers -->
+        <test-method signature="Screenshotss()[pri:0, instance:Browsers_resolution.firefoxBrowser@12aba8be]" started-at="2024-03-12T17:39:58 IST" name="Screenshotss" finished-at="2024-03-12T17:40:01 IST" duration-ms="3170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshotss -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Browsers_resolution.firefoxBrowser@12aba8be]" started-at="2024-03-12T17:40:01 IST" name="close" finished-at="2024-03-12T17:40:10 IST" duration-ms="9578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Browsers_resolution.firefoxBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
